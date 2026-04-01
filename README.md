@@ -62,7 +62,7 @@ Python 3.8+, TensorFlow 2.x, Keras Tuner
 
 1. Clone Repository
 
-git clone https://github.com/yourusername/cats-dogs-cnn.git
+git clone https://github.com/Nourhanmohamed12/machine project(2).git
 cd cats-dogs-cnn
 
 2. Setup Environment
